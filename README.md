@@ -1,4 +1,4 @@
-# ECC-Based Industrial SCADA Security Simulation
+# ECC Industrial SCADA Security
 
 This project implements a cybersecurity framework for protecting HMI–PLC communication in industrial control systems using Elliptic Curve Cryptography (ECC).
 
