@@ -47,10 +47,10 @@ The system generates:
 
 Example metrics from simulation:
 
-Total attacks: 25
-Intercepted: 22
-Prevention rate: 88%
-Average detection latency: 262 ms
+- Total attacks: 25
+- Intercepted: 22
+- Prevention rate: 88%
+- Average detection latency: 262 ms
 
 ---
 
