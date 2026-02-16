@@ -1,6 +1,6 @@
 # ECC Industrial SCADA Security
 
-This project implements a cybersecurity framework for protecting HMI–PLC communication in industrial control systems using Elliptic Curve Cryptography (ECC).
+Real-time ECC cybersecurity framework for protecting HMI–PLC communication in industrial automation systems.
 
 The simulation models a cyber–physical industrial plant under Man-in-the-Middle (MITM) attacks and demonstrates how ECC-based authentication and anomaly detection can intercept malicious commands in real time.
 
