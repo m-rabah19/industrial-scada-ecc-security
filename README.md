@@ -75,7 +75,7 @@ industrial_scada_ecc_security
 ## File Structure
 
 ```
-industrial_scada_security.m   → main simulation code
+industrial_scada_ecc_security.m   → main simulation code
 ```
 
 ---
